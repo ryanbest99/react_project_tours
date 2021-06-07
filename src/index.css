@@ -1,0 +1,19 @@
+:root {
+  --background-color: #f1f5f8;
+  --title-color: #102a42;
+  --money-color: #49a6e9;
+  --money-color2: #ebf7ff;
+  --paragraph-color: #68839c;
+  --button-color: #c95151;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.placeImg {
+  display: block;
+  width: 100%;
+}
